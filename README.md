@@ -1,17 +1,17 @@
 fine-arts-MERN
 
-client (frontend):
-    npx create-react-app .
-    npm i bootstrap
-    npm i font-awesome 
-    npm i react-router-dom
+client (frontend): <br />
+    npx create-react-app . <br />
+    npm i bootstrap <br />
+    npm i font-awesome <br />
+    npm i react-router-dom <br />
 
-server (backend):
-    npm init -y
-    npm i express
-    npm i mongoose
-    npm i dotenv
-    npm i bcryptjs
-    npm i jsonwebtoken
-    npm i cookie-parser
-    npm i nodemon
+server (backend): <br />
+    npm init -y <br />
+    npm i express <br />
+    npm i mongoose <br />
+    npm i dotenv <br />
+    npm i bcryptjs <br />
+    npm i jsonwebtoken <br />
+    npm i cookie-parser <br />
+    npm i nodemon <br />
